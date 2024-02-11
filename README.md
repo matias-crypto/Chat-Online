@@ -20,7 +20,7 @@ https://matias-crypto.github.io/Chat-Online/
 
 [Ejecutar en termux]
 
-(Pon cada comando 1 por 1)
+(Pon cada comando uno por uno)
 
 
 -pkg install w3m
