@@ -1,3 +1,6 @@
+![Bienvenidos](URL_de_la_imagen)
+
+
 Hola, ¿Cómo están?
 
 Les presento este proyecto básico, pueden usarlo como plantilla para su sitio web o para lo que deseen
