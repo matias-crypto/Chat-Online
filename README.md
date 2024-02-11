@@ -11,12 +11,14 @@ En este proyecto usamos HTML, CSS, JS y PHP para simular una base de datos bási
 (Cabe recalcar que el repositorio en sí no es online, para eso debés de mejorar los códigos, simplemente es una plantilla que irá mejorando poco a poco)
 
 
-¿Quieres probar como es este repositorio?
+¿Quieres ver como es este repositorio?
 ¡Genial!
 
 Entra aquí:
 
 https://matias-crypto.github.io/Chat-Online/
+
+o échale un vistazo a lo siguiente:
 
 [Ejecutar en termux]
 
