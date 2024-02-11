@@ -1,8 +1,5 @@
 ![Bienvenidos](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5mjflukaPlGs1Yumt18_vdhCbajqccaxoGw&usqp=CAU)
 
-```python
-# Bloque de código en Python
-print("Hola, mundo!")
 
 **Hola, ¿Cómo están?**
 
