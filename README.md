@@ -18,7 +18,7 @@ Entra aquí:
 
 https://matias-crypto.github.io/Chat-Online/
 
-o échale un vistazo a lo siguiente:
+O échale un vistazo a lo siguiente:
 
 [Ejecutar en termux]
 
