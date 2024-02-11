@@ -22,12 +22,12 @@ https://matias-crypto.github.io/Chat-Online/
 
 **[Ejecutar en termux]**
 
-**(Pon cada comando uno por uno)**
+*(Pon cada comando uno por uno)*
 
 
--pkg install w3m
+**-pkg install w3m**
 
--w3m https://matias-crypto.github.io/Chat-Online/
+**-w3m https://matias-crypto.github.io/Chat-Online/**
 
 
 
