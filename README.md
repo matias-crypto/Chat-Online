@@ -26,7 +26,7 @@ https://matias-crypto.github.io/Chat-Online/
 
 
 
-Acuerden de darle una ⭐ al repositorio!!!!
+Acuerdense de darle una ⭐ al repositorio!!!!
 
 [![GitHub stars](https://img.shields.io/github/stars/matias-crypto/Chat-Online.svg?style=social)](https://github.com/matias-crypto/Chat-Online/stargazers)
 [![GitHub views](https://img.shields.io/github/watchers/matias-crypto/Chat-Online.svg?style=social)](https://github.com/matias-crypto/Chat-Online/watchers)
