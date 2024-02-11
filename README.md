@@ -16,9 +16,14 @@ Entra aquí:
 https://matias-crypto.github.io/Chat-Online/
 
 [Ejecutar en termux]
-¤pkg install w3m
 
-¤w3m https://matias-crypto.github.io/Chat-Online/
+(Pon cada comando 1 por 1)
+
+
+-pkg install w3m
+
+-w3m https://matias-crypto.github.io/Chat-Online/
+
 
 
 Acuerden de darle una ⭐ al repositorio!!!!
